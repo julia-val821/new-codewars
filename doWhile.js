@@ -1,4 +1,4 @@
-/* аревна-лягушка*/
+/* царевна-лягушка*/
 function frogPrincess(n) {
   let day = 0;
   let sum = 0;
